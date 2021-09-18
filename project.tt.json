@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "kefu-fe-app",
+  "description": "环信客服小程序",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

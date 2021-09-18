@@ -1,0 +1,5 @@
+export const ADD = 'ADD'
+export const MINUS = 'MINUS'
+export const SET_USER = 'SET_USER'
+export const CODE = 'CODE'
+export const SET_DATA=  'SET_DATA'

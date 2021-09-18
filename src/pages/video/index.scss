@@ -1,0 +1,28 @@
+.video {
+  flex-direction: column;
+  width: 100%;
+  .userinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 40vh;
+    padding-top: 20vh;
+    .userinfo-avatar {
+      width: 128rpx;
+      height: 128rpx;
+      margin: 20rpx;
+      border-radius: 50%;
+    }
+    .userinfo-nickname {
+      color: #aaa;
+    }
+    .get-info {
+      background-color: #1ba8ed;
+      color: #fff;
+  }
+  }
+  .contact-kefu {
+    background-color: #1ba8ed;
+    color: #fff;
+  }
+}
